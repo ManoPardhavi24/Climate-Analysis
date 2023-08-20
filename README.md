@@ -16,9 +16,3 @@ The goal of this project is to conduct a climate analysis to help with trip plan
     * Conduct analysis on weather stations
     * Query the most active station
     * Plot results as a histogram with bins
-* Design multi-route Flask API to display data
-    * `/` - Homepage that lists routes available
-    * `/api/v1.0/precipitation` - JSONified query results
-    * `/api/v1.0/stations` - JSON list of stations
-    * `/api/v1.0/tobs` - Query results for temperature observations for most active station
-    * `/api/v1.0/<start>` and `/api/v1.0/<start>/<end>` - Returns JSON list of temperature information given start or end date range
