@@ -17,6 +17,6 @@ The goal of this project is to conduct a climate analysis to help with trip plan
     * Query the most active station
     * Plot results as a histogram with bins
 * Climate App
-   *After completion of the initial analysis,a flask API is designed based on the queries that have been 
+   After completion of the initial analysis,a flask API is designed based on the queries that have been 
      developed.
         
